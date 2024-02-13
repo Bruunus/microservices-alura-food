@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Bruunus/server
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/Bruunus/gateway
+[submodule "pedidos-ms"]
+	path = pedidos-ms
+	url = https://github.com/Bruunus/pedidos-ms
+[submodule "pagamentos-ms"]
+	path = pagamentos-ms
+	url = https://github.com/Bruunus/pagamentos-ms
